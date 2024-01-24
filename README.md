@@ -1,17 +1,16 @@
-### Hi there 👋
-hello
+# Hi there 👋 I'm Saurav Sitaula!
 
-<!--
-**sourey/sourey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate JavaScript developer specializing in Node.js, React, and currently learning Remix JS. 
+I love building efficient, scalable, and maintainable software solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a project using Node.js, React, and Remix JS.
+- 🌱 I’m currently learning Remix JS.
+
+## 🎯 Exploring New Things in Tech
+
+I'm always eager to explore new technologies and improve my skills. Currently, I'm diving deeper into:
+
+- 🧪 Experimenting with new libraries and frameworks
+- 📚 Reading tech blogs and articles
