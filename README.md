@@ -15,4 +15,14 @@ I'm always eager to explore new technologies and improve my skills. Currently, I
 - 📚 Reading tech blogs and articles
 - 🐹 Thinking of trying out Go
 
-🔧 Tech Stack ```javascript const saurav = { languages: ['JavaScript', 'TypeScript'], backend: ['Node.js', 'Express'], frontend: ['React', 'Redux', 'Next.js'], currentlyLearning: ['Remix JS'], passions: ['Clean Code', 'Performance Optimization', 'Scalable Architecture'] }; ``` Let's connect and build something awesome together! 🚀
+🔧 Tech Stack
+
+```
+const saurav = {
+  languages: ['JavaScript', 'TypeScript'],
+  backend: ['Node.js', 'Express'],
+  frontend: ['React', 'Redux', 'Next.js'],
+  currentlyLearning: ['Remix JS'],
+  passions: ['Clean Code', 'Performance Optimization', 'Scalable Architecture']
+};
+```
