@@ -11,7 +11,6 @@ I love building efficient, scalable, and maintainable software solutions.
 ## 🎯 Exploring New Things in Tech
 
 I'm always eager to explore new technologies and improve my skills. Currently, I'm diving deeper into:
-
 - 🧪 Experimenting with new libraries and frameworks
 - 📚 Reading tech blogs and articles
-- !Golang Trying out Golang
+- 🐹 Thinking of trying out Go
