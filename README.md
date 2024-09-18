@@ -14,4 +14,4 @@ I'm always eager to explore new technologies and improve my skills. Currently, I
 
 - 🧪 Experimenting with new libraries and frameworks
 - 📚 Reading tech blogs and articles
-- 🦀 [Thinking about] Trying out Rust
+- !Golang Trying out Golang
