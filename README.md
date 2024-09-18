@@ -19,10 +19,9 @@ I'm always eager to explore new technologies and improve my skills. Currently, I
 
 ```
 const saurav = {
-  languages: ['JavaScript', 'TypeScript'],
-  backend: ['Node.js', 'Express'],
-  frontend: ['React', 'Redux', 'Next.js'],
-  currentlyLearning: ['Remix JS'],
-  passions: ['Clean Code', 'Performance Optimization', 'Scalable Architecture']
+  languages: ['JavaScript', 'TypeScript', 'Java', 'Php', 'Python'],
+  backend: ['Node.js', 'Express', 'Spring Framework', 'Laravel'],
+  frontend: ['React', 'Redux', 'Next.js', 'Remix.js'],
+  currentlyLearning: ['Next.js', 'Go'],
 };
 ```
