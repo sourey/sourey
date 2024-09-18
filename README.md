@@ -15,7 +15,7 @@ I'm always eager to explore new technologies and improve my skills. Currently, I
 - 📚 Reading tech blogs and articles
 - 🐹 Thinking of trying out Go
 
-🔧 Tech Stack
+## 🔧 Tech Stack
 
 ```
 const saurav = {
