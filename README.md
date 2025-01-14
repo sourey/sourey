@@ -22,6 +22,6 @@ const saurav = {
   languages: ['JavaScript', 'TypeScript', 'Java', 'Php', 'Python'],
   backend: ['Node.js', 'Express', 'Spring Framework', 'Laravel'],
   frontend: ['React', 'Redux', 'Next.js', 'Remix.js'],
-  currentlyLearning: ['Next.js', 'Go'],
+  currentlyLearning: ['Next.js', 'Go', 'Astro'],
 };
 ```
