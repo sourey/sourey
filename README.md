@@ -5,8 +5,8 @@ I love building efficient, scalable, and maintainable software solutions.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on a project using Node.js, React, and Remix JS.
-- 🌱 I’m currently learning Remix JS.
+- 🔭 I’m currently working on a project using Node.js, React, and Astro JS.
+- 🌱 I’m currently learning Astro JS.
 
 ## 🎯 Exploring New Things in Tech
 
