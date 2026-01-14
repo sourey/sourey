@@ -1,27 +1,30 @@
-# Hi there 👋 I'm Saurav Sitaula!
+# 👋 Hi there, I'm Saurav Sitaula!
 
-I'm a passionate JavaScript developer specializing in Node.js, React, Php, Laravel and somtimes Java and Spring Boot.  
-I love building efficient, scalable, and maintainable software solutions.
+I'm a passionate **Software Engineer** with 7+ years of experience designing and delivering scalable systems across web and mobile platforms. I specialize in **React, React Native, Node.js, TypeScript**, and cloud infrastructure, architecting solutions that handle millions of users.
 
-## 🚀 About Me
+## 🚀 Currently Working On
+- **Node.js, React, and Next JS** project
+- Exploring **Go** and new technologies 🧪
 
-- 🔭 I’m currently working on a project using Node.js, React, and Astro JS.
-- 🌱 I’m currently learning Astro JS.
+## 🛠️ Tech Stack
 
-## 🎯 Exploring New Things in Tech
+### Languages
+`JavaScript` `TypeScript` `Java` `PHP` `Python`
 
-I'm always eager to explore new technologies and improve my skills. Currently, I'm diving deeper into:
-- 🧪 Experimenting with new libraries and frameworks
-- 📚 Reading tech blogs and articles
-- 🐹 Thinking of trying out Go
+### Backend
+`Node.js` `Express` `NestJS` `Spring Framework` `Laravel`
 
-## 🔧 Tech Stack
+### Frontend
+`React` `Redux` `Next.js` `Remix.js` `Tailwind CSS`
 
-```
-const saurav = {
-  languages: ['JavaScript', 'TypeScript', 'Java', 'Php', 'Python'],
-  backend: ['Node.js', 'Express', 'Spring Framework', 'Laravel'],
-  frontend: ['React', 'Redux', 'Next.js', 'Remix.js'],
-  currentlyLearning: ['Next.js', 'Go', 'Astro'],
-};
-```
+### Mobile
+`React Native` `Expo`
+
+### Database
+`PostgreSQL` `MySQL` `MongoDB` `Redis` `Prisma`
+
+### Headless CMS & E-commerce
+`Headless Shopify` `Shopify Theme Development` `Shopify App Development` `Strapi`
+
+### DevOps & Tools
+`Git` `Docker` `AWS` `Vercel` `GitHub Actions` `Jenkins`
